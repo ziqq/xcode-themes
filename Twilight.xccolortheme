@@ -93,7 +93,7 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.plain</key>
-		<string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+		<string>SauceCodeProNerdFontComplete---ExtraLight - 14.0</string>
 	</dict>
 </dict>
 </plist>
