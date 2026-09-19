@@ -5,23 +5,23 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.501961 0.607843 0.741176 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>VictorMono-Bold - 11.0</string>
+	<string>DankMonoNFM-Bold - 11.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>VictorMono-Regular - 11.0</string>
+	<string>DankMonoNFM-Regular - 11.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.866667 0.792157 0.494118 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>VictorMono-Bold - 11.0</string>
+	<string>DankMonoNFM-Bold - 11.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.501961 0.607843 0.741176 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>VictorMono-Regular - 11.0</string>
+	<string>DankMonoNFM-Regular - 11.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>VictorMono-Bold - 11.0</string>
+	<string>DankMonoNFM-Bold - 11.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.113725 0.117647 0.133333 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -32,12 +32,8 @@
 	<integer>1</integer>
 	<key>DVTLineSpacing</key>
 	<real>1.1</real>
-	<key>DVTMarkupTextBackgroundColor</key>
-	<string>0.180392 0.184314 0.223529 1</string>
-	<key>DVTMarkupTextBorderColor</key>
-	<string>0.25098 0.25098 0.305882 1</string>
 	<key>DVTMarkupTextCodeFont</key>
-	<string>VictorMono-Regular - 10.0</string>
+	<string>DankMonoNFM-Regular - 10.0</string>
 	<key>DVTMarkupTextEmphasisColor</key>
 	<string>0.866667 0.792157 0.494118 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
@@ -84,10 +80,6 @@
 	<string>0.866667 0.792157 0.494118 1</string>
 	<key>DVTSourceTextBackground</key>
 	<string>0.113725 0.117647 0.133333 1</string>
-	<key>DVTSourceTextBlockDimBackgroundColor</key>
-	<string>0.180392 0.184314 0.223529 1</string>
-	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0.113725 0.117647 0.133333 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
@@ -99,7 +91,7 @@
 		<key>xcode.syntax.attribute</key>
 		<string>0.866667 0.792157 0.494118 1</string>
 		<key>xcode.syntax.character</key>
-		<string>0.588235 0.701961 0.541176 1</string>
+		<string>0.866667 0.792157 0.494118 1</string>
 		<key>xcode.syntax.comment</key>
 		<string>0.443137 0.466667 0.564706 1</string>
 		<key>xcode.syntax.comment.doc</key>
@@ -115,11 +107,11 @@
 		<key>xcode.syntax.identifier.class.system</key>
 		<string>0.866667 0.792157 0.494118 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.501961 0.607843 0.741176 1</string>
+		<string>0.866667 0.792157 0.494118 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
 		<string>0.866667 0.792157 0.494118 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.603922 0.509804 0.592157 1</string>
+		<string>0.866667 0.792157 0.494118 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>0.866667 0.792157 0.494118 1</string>
 		<key>xcode.syntax.identifier.macro</key>
@@ -166,71 +158,71 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>VictorMono-Italic - 13.0</string>
+		<string>DankMonoNFM-Italic - 13.0</string>
 		<key>xcode.syntax.character</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.markup.aside.kind</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.markup.code</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.number</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.regex</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.regex.capturename</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.regex.charname</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.regex.number</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.regex.other</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.string</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 		<key>xcode.syntax.url</key>
-		<string>VictorMono-Regular - 13.0</string>
+		<string>DankMonoNFM-Regular - 13.0</string>
 	</dict>
 </dict>
 </plist>

@@ -23,14 +23,17 @@ Settings → Themes**.
 
 The CodePen Original palette adapted to Xcode's syntax roles, source editor,
 debug console, documentation markup, selection, and diagnostic markers. This
-variant uses SF Mono without coding ligatures.
+variant uses SF Mono without coding ligatures. Only the editor and console
+backgrounds are set; block-dimming and markup background overrides are left
+unset so Xcode does not paint extra colored surfaces behind code.
 
 ### CodePen (Ligatures)
 
-The same colors with `VictorMono-Regular` and `VictorMono-Italic`. Install
-[Victor Mono](https://rubjo.github.io/victor-mono/) before selecting this
-variant. Xcode gets coding ligatures from the selected font; an
-`.xccolortheme` has no separate ligature switch.
+The same colors with `DankMonoNFM-Regular`, `DankMonoNFM-Italic`, and
+`DankMonoNFM-Bold`. Install the Dank Mono Nerd Font Mono family before
+selecting this variant. The font's default OpenType ligature set renders
+coding sequences such as `->`, `=>`, `!=`, and `===`; an `.xccolortheme` has no
+separate ligature switch, so changing only the font name would not be enough.
 
 Xcode color themes cannot recolor the navigator, toolbar, tabs, or other IDE
 chrome. Those surfaces continue to follow the macOS and Xcode appearance.
